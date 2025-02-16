@@ -1,2 +1,3 @@
 # repo_ts_auto
-For tesing propose 
+For testing propose 
+Lesson 1
